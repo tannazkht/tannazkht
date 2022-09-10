@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Tannaz 
+- 👋 Hi, I’m Tannaz :-)
 - 👀 I’m interested in Front-End Developing
-- 🌱 I’m currently learning Front-End (Web Design)
+- 🌱 I’m currently learning Front-End Developing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: tannaz.teymourian@gmail.com
 
