@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tannaz :-)
 - 👀 I’m interested in Front-End Developing
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning vue.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: tannaz.teymourian@gmail.com
 
